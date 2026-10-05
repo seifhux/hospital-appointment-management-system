@@ -1,1 +1,0 @@
-# hospital-appointment-management-system
