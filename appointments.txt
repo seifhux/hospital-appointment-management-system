@@ -1,0 +1,31 @@
+10
+Ahmed Hassan
+3
+Cardiology
+Sara Mohamed
+1
+Emergency
+Khaled Ali
+5
+Orthopedics
+Mona Adel
+3
+Neurology
+Omar Farouk
+2
+Emergency
+Layla Ibrahim
+4
+Dermatology
+Youssef Nasser
+1
+Emergency
+Dina Mostafa
+6
+ENT
+Tarek Samir
+2
+Cardiology
+Hana Walid
+5
+Ophthalmology
